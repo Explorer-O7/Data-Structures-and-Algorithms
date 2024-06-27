@@ -7,7 +7,7 @@ public class Main{
 		            {30, 46, 55, 89, 10},
 		            {-4, 6}
 		        };
-                // target = element to be searched
+                	// target = element to be searched
 		        int target = 55;
 		        System.out.println(Arrays.toString(linearSearch2DArray(arr, target)));
 	}
