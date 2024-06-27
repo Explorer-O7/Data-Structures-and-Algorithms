@@ -2,7 +2,7 @@ public class Main{
 	public static void main(String[] args){
 		// num = 1D input array
 		int[] num = {23, 45, 1, 2, 8, 19, -3, 16, -11, 28};
-        // target = the element to be searched
+        	// target = the element to be searched
 		int target = -3;
 		int result = LinearSearch(num, target);
 		if (result == -1)
