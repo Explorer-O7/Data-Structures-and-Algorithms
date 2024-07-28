@@ -38,9 +38,7 @@ public class Main{
 					start = mid + 1;
 				}
 			}
-			
 		}
 		return -1; // element not found
-		
 	}
 }
