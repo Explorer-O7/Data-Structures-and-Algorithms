@@ -8,7 +8,8 @@ Pattern-1
 */
 
 #include<bits/stdc++.h>
-usign namespace std;
+using namespace std;
+
 void printPattern() {
  int n=5;
  for(int i=0; i<n; i++) {
