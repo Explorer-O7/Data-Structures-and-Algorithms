@@ -1,5 +1,8 @@
 /*
 The below code example calculates the reverse of a given number. The reverseNumber function takes an integer as an argument and returns it's reversed digit number.
+Example:
+ Input: n = 123
+ Output: 321
 */
 
 #include<bits/stdc++.h>
