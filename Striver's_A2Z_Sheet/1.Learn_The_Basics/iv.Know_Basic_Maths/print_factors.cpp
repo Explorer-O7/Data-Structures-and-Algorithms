@@ -10,7 +10,7 @@ using namespace std;
 
 void printFactors(int n) {
  set<int> ls;
- for(int i=1; i<=sqrt(n); i++) {
+ for(int i=1; i*i<=n; i++) {
   if(n%i == 0) {
    ls.insert(i);
    ls.insert(n/i);
