@@ -3,8 +3,10 @@ The below code example checks whether the given number is a palindrome or not. T
 Example:
  Input: n = 1331
  Output: Palindrome
+ Explanation: The value of the given number(1331) and it's reverse(1331) is same.
  Input: n = 123
  Output: Not Palindrome
+ Explanation: The value of the given number(123) and it's reverse(321) is not same.
 */
 
 #include<bits/stdc++.h>
