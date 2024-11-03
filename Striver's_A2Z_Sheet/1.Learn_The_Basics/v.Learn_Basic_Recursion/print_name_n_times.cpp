@@ -1,5 +1,8 @@
 /*
 The below code example prints a name for the given number of times using recursion. The printName function takes an integer as an argument and prints 'Explorer' until the base condition (n<1) is not met.
+Example:
+ Input: n = 5
+ Output: Explorer Explorer Explorer Explorer Explorer
 */
 
 #include<bits/stdc++.h>
