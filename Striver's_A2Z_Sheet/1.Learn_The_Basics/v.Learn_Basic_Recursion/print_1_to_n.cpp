@@ -10,7 +10,7 @@ using namespace std;
 
 void printRange(int n) {
  if(n<1) return;
- printName(n-1);
+ printRange(n-1);
  cout << n << " ";
 }
 
