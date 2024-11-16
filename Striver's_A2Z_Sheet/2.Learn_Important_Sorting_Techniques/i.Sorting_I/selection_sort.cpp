@@ -1,8 +1,8 @@
 /*
 The below code example implements the selection sort. The selectionSort function takes two arguments, one is an integer array and second one is an integer, and sorts the given array in ascending order.
 Example:
- Input: arr[] = {8,-4,0,4,-8}, n = 6
- Output: -8 -4 0 4 8
+ Input: arr[] = {8,-4,2,-2,4,-8}, n = 6
+ Output: -8 -4 -2 2 4 8
 */
 
 #include<bits/stdc++.h>
