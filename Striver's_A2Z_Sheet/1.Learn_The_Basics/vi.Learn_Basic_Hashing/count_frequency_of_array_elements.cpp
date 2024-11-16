@@ -5,7 +5,7 @@ Example:
  Output: 1-->3
          2-->2
          3-->1
- Explanation: 1's frequency is 3, 2's frequency is 2, and 3's frequency is 1.
+ Explanation: 1 occurs three times, 2 occurs two times, and 3 occurs one time in the array.
 */
 
 #include<bits/stdc++.h>
