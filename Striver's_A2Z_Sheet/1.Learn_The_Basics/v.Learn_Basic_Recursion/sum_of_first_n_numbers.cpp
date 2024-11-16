@@ -1,5 +1,5 @@
 /*
-The below code example calculates the sum of first n numbers using recursion. The sumOfFirstNNums takes an integer as an argument, calculates the sum from 1 till given number, and returns the sum.
+The below code example calculates the sum of first n numbers using recursion. The sumOfFirstNNums function takes an integer as an argument, calculates the sum from 1 till given number, and returns the sum.
 Example:
  Input: n = 5
  Output: 15
