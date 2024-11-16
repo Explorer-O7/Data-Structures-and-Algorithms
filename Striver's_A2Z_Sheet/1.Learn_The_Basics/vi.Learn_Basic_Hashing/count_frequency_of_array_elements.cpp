@@ -1,5 +1,11 @@
 /*
-
+The below code example prints the frequencies of distinct elements in the given array by using hashing. The frequency function takes two arguments, one is an integer array and second one is an integer.
+Example:
+ Input: arr[] = {1,2,1,2,1,3}, n = 6
+ Output: 1-->3
+         2-->2
+         3-->1
+ Explanation: 1's frequency is 3, 2's frequency is 2, and 3's frequency is 1.
 */
 
 #include<bits/stdc++.h>
@@ -10,7 +16,7 @@ void frequency(int arr[], int n) {
  for(int i=0; i<n; i++)
   map[arr[i]]++;
  for(auto itr:map)
-  cout << itr.first << " " << itr.second << endl;
+  cout << itr.first << "-->" << itr.second << endl;
 }
 
 int main() {
