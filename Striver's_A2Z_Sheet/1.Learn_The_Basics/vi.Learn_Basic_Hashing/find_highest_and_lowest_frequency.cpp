@@ -1,7 +1,7 @@
 /*
 The below code example prints the element(s) having highest & lowest frequency in the given array. The frequency function takes two arguments, one is an integer array and second one is an integer.
 Example:
- Input: arr[2,1,2,3,2,1] = {}, n = 6,
+ Input: arr[] = {2,1,2,3,2,1}, n = 6
  Output: 2 3
  Explanation: The frequency of 2 is three (highest), and the frequency of 3 is one (lowest).
 */
