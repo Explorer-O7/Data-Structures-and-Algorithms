@@ -1,5 +1,5 @@
 /*
-The below code example implements the insertion sort. The insertionSort function takes two arguments, one is an integer array and second one is an integer, and sorts the elements of the given array in ascending order.
+The below code example implements the insertion sort. The insertionSort function takes two arguments, one is an integer array and second one is an integer, and sorts the given array in ascending order.
 Example:
  Input: arr[] = {-2,4,-6,2,-4,6}, n = 6
  Output: -6 -4 -2 2 4 6
