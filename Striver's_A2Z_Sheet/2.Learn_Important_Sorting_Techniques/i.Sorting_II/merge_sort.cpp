@@ -5,6 +5,9 @@ Example:
  Output: -12 -8 -4 4 8 12
 */
 
+#include<bits/stdc++.h>
+using namespace std;
+
 void merge(vector<int>& arr, int low, int mid, int high) {
  vector<int> temp;
  int i=low, j=mid+1;
@@ -48,7 +51,7 @@ int main() {
   arr.push_back(elem);
  }
  mergeSort(arr, 0, n-1);
- for(auto itr : arr)
-  cout << itr <<" ";
+ for(auto ele : arr)
+  cout << ele << " ";
  return 0;
 }
