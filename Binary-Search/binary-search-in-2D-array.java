@@ -6,7 +6,7 @@ class Main{
             {2,4,6,8},
             {5,7,9,11},
             {9,11,13,15},
-            {12,14,16,1}
+            {12,14,16,18}
         };
         // target = element to be searched
         int target = 10;
