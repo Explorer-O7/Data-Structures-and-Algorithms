@@ -1,5 +1,8 @@
 /*
-
+The below code example implements the recursive insertion sort. The insertionSort function takes three arguments, an integer array, and two integers, it sorts the given array in ascending order using recursion.
+Example:
+  Input: arr[] = {13,46,24,52,20,9}, n = 6
+  Output: 9 13 20 24 46 52
 */
 
 #include<bits/stdc++.h>
