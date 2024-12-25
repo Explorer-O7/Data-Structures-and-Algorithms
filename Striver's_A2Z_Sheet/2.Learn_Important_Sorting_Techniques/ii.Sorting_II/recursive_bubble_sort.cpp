@@ -1,5 +1,6 @@
 /*
 The below code example implements the recursive bubble sort. The bubbleSort function takes two arguments, an integer array, and an integer, it sorts the given array in ascending order using recursion.
+Example:
   Input: arr[] = {13,46,24,52,20,9}, n = 6
   Output: 9 13 20 24 46 52
 */
