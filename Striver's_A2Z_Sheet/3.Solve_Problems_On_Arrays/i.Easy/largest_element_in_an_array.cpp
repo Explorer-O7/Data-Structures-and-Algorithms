@@ -10,6 +10,7 @@ Example:
 using namespace std;
 
 int findLargest(int arr[], int n) {
+ if(n == 1) return arr[0];
  int max = arr[0];
  for(int i=1; i<n; i++) {
   if(arr[i] > max) max = arr[i];
