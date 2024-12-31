@@ -27,7 +27,7 @@ int findSecondLargest(int arr[], int n) {
 
 int main() {
  int n = 3;
- int arr[] = {10,11,12};
+ int arr[] = {10, 11, 12};
  cout << findSecondLargest(arr, n);
  return 0;
 }
