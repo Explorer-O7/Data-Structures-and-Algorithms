@@ -23,7 +23,7 @@ int removeDuplicates(int nums[], int n) {
 
 int main() {
  int n = 10;
- int arr[] = {0,0,1,1,1,2,2,3,3,4};
+ int arr[] = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
  int k = removeDuplicates(arr, n);
  for(int i=0; i<k; i++)
   cout << arr[i] << " ";
