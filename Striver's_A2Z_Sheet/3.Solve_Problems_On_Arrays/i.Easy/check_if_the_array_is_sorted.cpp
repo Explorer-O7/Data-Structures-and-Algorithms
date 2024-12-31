@@ -26,7 +26,7 @@ bool checkSorted(int nums[], int n) {
 
 int main() {
  int n = 3;
- int arr[] = {1,2,3};
+ int arr[] = {1, 2, 3};
  if(checkSorted(arr, n)) cout << "true";
  else cout << "false";
  return 0;
