@@ -20,7 +20,7 @@ int findLargest(int arr[], int n) {
 
 int main() {
  int n = 6;
- int arr[] = {13,46,24,52,20,9};
+ int arr[] = {13, 46, 24, 52, 20, 9};
  cout << findLargest(arr, n);
  return 0;
 }
