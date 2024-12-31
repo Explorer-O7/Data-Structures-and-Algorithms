@@ -44,7 +44,7 @@ int main() {
  for(int x : arr1)
   cout << x << " ";
  cout << endl;
- int arr2[] = {1,2,3,4,5,6,7};
+ int arr2[] = {1, 2, 3, 4, 5, 6, 7};
  rotateRightByK(arr2, n, k);
  for(int x : arr2)
   cout << x << " ";
